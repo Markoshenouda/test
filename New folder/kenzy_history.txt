@@ -1,0 +1,21 @@
+
+Match: kenzy vs Computer
+kenzy played 9
+Computer played 5
+kenzy played 6
+Computer played 3
+kenzy played 7
+Computer played 8
+kenzy played 4
+Computer played 2
+Result: Computer
+-----------------------------
+
+Match: kenzy vs Computer
+kenzy played 4
+Computer played 9
+kenzy played 6
+Computer played 3
+kenzy played 5
+Result: kenzy
+-----------------------------

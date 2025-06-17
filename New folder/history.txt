@@ -1,0 +1,19 @@
+
+Match: coco vs Computer
+coco played 9
+Computer played 6
+coco played 7
+Computer played 4
+coco played 8
+Result: coco
+-----------------------------
+
+Match: cindy vs Computer
+cindy played 8
+Computer played 2
+cindy played 5
+Computer played 1
+cindy played 7
+Computer played 3
+Result: Computer
+-----------------------------

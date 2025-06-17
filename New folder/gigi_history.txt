@@ -1,0 +1,10 @@
+
+Match: gigi vs Computer
+gigi played 5
+Computer played 1
+gigi played 9
+Computer played 3
+gigi played 6
+Computer played 2
+Result: Computer
+-----------------------------

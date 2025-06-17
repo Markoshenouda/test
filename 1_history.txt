@@ -1,0 +1,9 @@
+
+Match: 1 vs Computer
+1 played 1
+Computer played 2
+1 played 5
+Computer played 3
+1 played 9
+Result: 1
+-----------------------------

@@ -1,0 +1,9 @@
+
+Match: lfd vs Computer
+lfd played 1
+Computer played 8
+lfd played 5
+Computer played 3
+lfd played 9
+Result: lfd
+-----------------------------

@@ -1,0 +1,3 @@
+dsf	Computer	Computer
+lfd	Computer	lfd
+1	Computer	1

@@ -1,0 +1,10 @@
+
+Match: dsf vs Computer
+dsf played 1
+Computer played 5
+dsf played 3
+Computer played 2
+dsf played 4
+Computer played 8
+Result: Computer
+-----------------------------

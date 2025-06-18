@@ -1,0 +1,37 @@
+name: CI - Build and Test Tic Tac Toe
+
+on: [push, pull_request]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout code
+        uses: actions/checkout@v3
+
+      - name: ⚙️ Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y g++ cmake libgtest-dev qtbase5-dev
+
+      - name: 🧪 Build Google Test
+        run: |
+          cd /usr/src/gtest
+          sudo cmake .
+          sudo make
+          sudo cp lib/*.a /usr/lib
+
+      - name: 🧼 Clean previous build if exists
+        run: rm -rf build
+
+      - name: 🏗️ Configure project with CMake
+        run: cmake -S . -B build
+
+      - name: 🔨 Build project
+        run: cmake --build build
+
+      - name: 🧪 Run Google Tests
+        run: |
+          cd build
+          ctest --output-on-failure

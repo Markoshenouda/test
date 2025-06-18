@@ -1,0 +1,77 @@
+
+Match: rana123 vs toom
+rana123 played 1
+toom played 6
+rana123 played 5
+toom played 7
+rana123 played 9
+Result: rana123
+-----------------------------
+
+Match: rana123 vs Computer
+rana123 played 1
+Computer played 5
+rana123 played 3
+Computer played 2
+rana123 played 8
+Computer played 4
+rana123 played 6
+Computer played 9
+rana123 played 7
+Result: DRAW
+-----------------------------
+
+Match: rana123 vs Computer
+rana123 played 5
+Computer played 2
+rana123 played 9
+Computer played 3
+rana123 played 1
+Result: rana123
+-----------------------------
+
+Match: rana123 vs Computer
+rana123 played 7
+Computer played 2
+rana123 played 3
+Computer played 5
+rana123 played 8
+Computer played 6
+rana123 played 9
+Result: rana123
+-----------------------------
+
+Match: rana123 vs Computer
+rana123 played 6
+Computer played 5
+rana123 played 9
+Computer played 3
+rana123 played 7
+Computer played 8
+rana123 played 2
+Computer played 1
+rana123 played 4
+Result: DRAW
+-----------------------------
+
+Match: rana123 vs Computer
+rana123 played 8
+Computer played 5
+rana123 played 9
+Computer played 7
+rana123 played 3
+Computer played 6
+rana123 played 4
+Computer played 1
+rana123 played 2
+Result: DRAW
+-----------------------------
+
+Match: rana123 vs Computer
+rana123 played 6
+Computer played 9
+rana123 played 5
+Computer played 2
+rana123 played 4
+Result: rana123
+-----------------------------
